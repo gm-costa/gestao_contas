@@ -28,9 +28,23 @@
 
 ### Screenshots
 
-<img src="screenshots/menu.jpg" width="250">| &nbsp;&nbsp;<img src="screenshots/submenu_cliente.jpg" width="250">| &nbsp;&nbsp;<img src="screenshots/lista_clientes.jpg" width="250">
-<img src="screenshots/submenu_conta.jpg" width="250">| &nbsp;&nbsp;<img src="screenshots/lista_contas.jpg" width="250">| &nbsp;&nbsp;<img src="screenshots/historico_conta.jpg" width="250">
-<img src="screenshots/grafico_conta.jpg" width="250">
+<table>
+    <tr>
+        <td><img src="screenshots/menu.jpg" width="350"></td>
+        <td><img src="screenshots/grafico_conta.jpg" width="350"></td>
+    </tr>
+    <tr>
+        <td><img src="screenshots/submenu_cliente.jpg" width="300"></td>
+        <td><img src="screenshots/lista_clientes.jpg" width="350"></td>
+    </tr>
+    <tr>
+        <td><img src="screenshots/submenu_conta.jpg" width="300"></td>
+        <td><img src="screenshots/lista_contas.jpg" width="350"></td>
+    </tr>
+    <tr>
+        <td colspan="2"><img src="screenshots/historico_conta.jpg" width="700"></td>
+    </tr>
+</table>
 
 ### Como executar o projeto
 
